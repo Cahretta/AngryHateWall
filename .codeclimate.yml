@@ -1,0 +1,18 @@
+---
+engines:
+  csslint:
+    enabled: true
+  coffeelint:
+    enabled: true
+  eslint:
+    enabled: true
+  fixme:
+    enabled: true
+ratings:
+  paths:
+  - "**.css"
+  - "**.coffee"
+  - "**.js"
+  - "**.jsx"
+exclude_paths:
+- node_modules/**/*
