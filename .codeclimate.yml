@@ -16,3 +16,4 @@ ratings:
   - "**.jsx"
 exclude_paths:
 - node_modules/**/*
+- public/bundle.js
