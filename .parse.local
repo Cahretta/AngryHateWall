@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "AngryHateWall": {
+      "applicationId": "fQARkxmXdfmtUzFivWvfUVmsoUr1DYdXts9cxPIB"
+    },
+    "_default": {
+      "link": "AngryHateWall"
+    }
+  }
+}
